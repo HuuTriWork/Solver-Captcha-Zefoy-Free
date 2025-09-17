@@ -74,7 +74,4 @@ print("Captcha giải được:", text)
 - Bạn nên **tạo API key riêng** tại [OCR.Space](https://ocr.space/ocrapi) để dùng ổn định.  
 - Nếu kết quả trả về rỗng, hãy thử **load captcha mới** hoặc kiểm tra lại chất lượng ảnh.
 
----
 
-## 📜 License
-MIT License – tự do sử dụng và chỉnh sửa.  
