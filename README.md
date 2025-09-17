@@ -7,13 +7,7 @@ Bạn có thể truyền vào **file ảnh captcha** hoặc **chuỗi base64**, 
 
 ## 📦 Cài đặt
 
-1. Clone repo hoặc tải file về:
-   ```bash
-   git clone https://github.com/<username>/captcha-solver.git
-   cd captcha-solver
-   ```
-
-2. Cài các thư viện cần thiết:
+1. Cài các thư viện cần thiết:
    ```bash
    pip install requests
    ```
